@@ -1,2 +1,14 @@
 # The-Gaming-Room
-Draw It or Lose It
+## Draw It or Lose It Gaming Application
+### Summary:
+The Gaming Room currently has an application called “Draw It or Lost It” that is only available for Android.  Their game is a modern version of the classic 1980’s television game, “Win, Lose or Draw”.  Like the classic version of the game, their application will have teams of players competing against the clock and each other to solve the puzzles first.  The game consists of four one-minute rounds where a team of players has thirty seconds to correctly guess a puzzle that is given in clues from rendered images from a stock library of drawings as the clock ticks down.  If the team on the clock does not correctly solve the puzzle, the other teams have a 15-second clock to correctly solve the puzzle with the clues that were given. 
+
+The Gaming Room is looking to expand this Android application and develop a web-based version of the game.  They are looking for Creative Technology Solutions (CTS) to streamline the software development process from Android to the web-based version.  Before full implementation of the game will be approved by the client, an initial working version of the game application will be needed that correctly addresses software requirements of the game structure and play.  After CTS managers have client approval of the software application, hardware specification requirements will be considered in the next phase of development.
+
+While developing this documentation throughout the course I was introduced and/or discovered new and interesting tools to assist me on my computer science path.  Lucidchart was great with helping with the design patterns and working with the UML diagrams to understand the domain model.  I used Eclipse in the past for my Java courses, but I was introduced to Maven and Spring while working on the code porion of the course.  
+
+Working through the design document process allowed better understand the client's requirements and the design constraints.  I found myself constantly referring back to both of those before moving forward each week. This was my introduction in to design patterns and documentation.  There is always room for improvements in all areas.  As I gain more experience in all aspects of the software development lifecycle, I am sure I will look back at this submission and would want to start completely over.  
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I really tried to keep it simple and always refered back to what the client was looking for in a few basic bullet points before moving forward each week and with each task.  It is important not to stray to far away from what the user's needs were because it can end up not what they wanted at all.  Wasting time, money, and resourses, and still have no product at the end and possibly no client at the end of the process. I will use the design templates as an outline or roadmap in the future to analyze and design similiar software applications.  
+
